@@ -36,7 +36,9 @@ Proof the alert has been created:
 ![image](https://github.com/user-attachments/assets/f4058d2b-71d8-4ee3-a8e2-d20c2a1886be)
 
 
+
 Step 3: Drawing the (Base)line
+
 Background: A Vandaly server is also experiencing brute force attacks into their administrator account. Management would like you to set up monitoring to notify the SOC team if a brute force attack occurs again.
 
 Your Task: Analyze administrator logs that document a brute force attack. Then, create a baseline of the ordinary amount of administrator bad logins and determine a threshold to indicate if a brute force attack is occurring. 
